@@ -1,0 +1,4 @@
+scrapy
+scrapyd-client
+pyparsing
+scrapy-crawlera
